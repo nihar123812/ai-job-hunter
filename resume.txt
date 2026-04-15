@@ -1,0 +1,47 @@
+KANCHAMREDDY NIHAR REDDY 
++91 9590444888  niharkanchamreddy@gmail.com  linkedin.com/in/nihar-kanchamreddy  github.com/nihar123812 
+Professional Summary 
+Computer Science student at VIT Chennai specializing in Data Structures, Algorithms, and Full-Stack Development, 
+passionate about leveraging technical expertise to develop innovative solutions. 
+Education 
+Vellore Institute of Technology 
+Bachelor of Technology - Computer Science and engineering CGPA: 7.89 
+Narayana Junior College 
+Stream: Maths , Physics and Chemistry; Score: 92.9% 
+DR.K.K.R Gowtham High School 
+Secondary; Score: 100% 
+Certifications 
+September 2022 – June 2026 
+Chennai, Tamil Nadu 
+June 2020 – May 2022 
+Nellore, Andhra Pradesh 
+June 2019 – March 2020 
+Nellore, Andhra Pradesh 
+Microsoft Azure AI-900 Certification 
+SQL Certification from Coursera 
+Projects 
+Skin Disease Detection Using Image Processing | Python, CNN 
+• Developed a high-accuracy skin disease detection tool using CNN with over 90% accuracy. 
+• Enhanced image processing techniques for improved detection efficiency. 
+NeuraLearn AI | Python, Flask, GPT API, MERN Stack, Supabase 
+January 2023 
+May 2025 
+• Developed a full-stack AI-powered learning assistant to auto-generate topic-wise curriculum, daily 
+targets, and 10+ question quizzes per subject. 
+• Integrated GPT-4 API to convert structured user goals into a 10-second curriculum plan with topic breakdown, 
+difficulty levels, and external learning resources. 
+• Designed a responsive UI using CSS, with <1.2s load times and features like daily targets and real-time tracking. 
+Experience 
+Unified Mentor Pvt Ltd |  
+Data Science Intern  
+October 2025 
+• Analyzed climate data across 6+ variables using regression models to forecast temperature and humidity trends 
+with R² scores above 0.85. 
+• Executed Exploratory Data Analysis and implemented prediction models for supermarket data, improving 
+forecasting accuracy by 15% using feature engineering and supervised ML techniques. 
+Technical Skills 
+Remote 
+Languages: Java, C++,Python, C, SQL, HTML, CSS 
+Developer Tools: Git, VS Code, DevC++, Python IDLE, Jupiter Notebook 
+Technologies and Frameworks: Git 
+Soft Skills: Project management, Technical Writing, Content Writing, Teamwork, Leadership
